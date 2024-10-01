@@ -1,1 +1,39 @@
 note
+
+
+git commands:
+
+ls (list everything)
+ls -a / ls -force (list everything in drive)
+
+
+
+
+git add <filename> ( to track file )
+
+
+
+git commit -m "message" ( to place file in the staging area)
+
+
+
+
+git push 
+
+
+git status (to check status of the current file)
+
+
+
+
+git restore --staged <filename>
+
+
+
+git log ( shows the entire history of commits made )
+
+commits are arranged on the top of each other as in stack data structure.
+Each commit has its own hash ID
+
+
+
